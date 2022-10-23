@@ -1,3 +1,3 @@
 import sys
 
-print("This feature will be even better")
+print("This feature will be worse then previous one")
